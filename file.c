@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int i = 0;
-	printf("%d\n", i);
+	printf("this is update\n");
+	printf("20240520\n");
 	return 0;
 }
